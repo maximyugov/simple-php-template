@@ -1,11 +1,10 @@
 {
-    "name": "maximyugov/vhd",
-    "description": "Test task for Only",
-    "type": "project",
+    "name": "maximyugov/simple-php-template",
+    "description": "Simple PHP Project Template with Composer, PHPUnit, PHPStan",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "MaximYugov\\VHD\\": "src/"
+            "MaximYugov\\SimpleProject\\": "src/"
         }
     },
     "authors": [
