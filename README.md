@@ -1,7 +1,7 @@
 # virtual-hosting-deploy
 
-![Code check](https://github.com/maximyugov/virtual-hosting-deploy/actions/workflows/phpmd.yml/badge.svg)
-![Test](https://github.com/maximyugov/virtual-hosting-deploy/actions/workflows/php.yml/badge.svg)
+[![Code quality](https://github.com/maximyugov/virtual-hosting-deploy/actions/workflows/phpmd.yml/badge.svg)](https://github.com/maximyugov/virtual-hosting-deploy/actions/workflows/phpmd.yml)
+[![PHPUnit](https://github.com/maximyugov/virtual-hosting-deploy/actions/workflows/php.yml/badge.svg?branch=master)](https://github.com/maximyugov/virtual-hosting-deploy/actions/workflows/php.yml)
 
 Test deploy on virtual hosting with shell client
 
