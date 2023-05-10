@@ -1,6 +1,6 @@
 <?php
 
-use MaximYugov\VHD\EverythingWorks;
+use MaximYugov\SimpleProject\EverythingWorks;
 use PHPUnit\Framework\TestCase;
 
 class EverythingWorksTest extends TestCase

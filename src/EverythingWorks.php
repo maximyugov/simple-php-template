@@ -1,6 +1,6 @@
 <?php
 
-namespace MaximYugov\VHD;
+namespace MaximYugov\SimpleProject;
 
 class EverythingWorks
 {
