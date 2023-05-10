@@ -10,7 +10,7 @@ class EverythingWorksTest extends TestCase
      */
     public function test_hello_world()
     {
-        $hello = new EverythingWorks()
-        
+        $hello = new EverythingWorks();
+        $this->assertEquals("Hello, World!", $hello->helloWorld());
     }
 }
