@@ -1,6 +1,6 @@
 {
     "name": "maximyugov/simple-php-template",
-    "description": "Simple PHP Project Template with Composer, PHPUnit, PHPStan",
+    "description": "Simple PHP Project Template with Composer, PHPUnit, PHPStan and GitHub Actions.",
     "license": "MIT",
     "autoload": {
         "psr-4": {
