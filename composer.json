@@ -4,7 +4,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "MaximYugov\\SimpleProject\\": "src/"
+            "MaximYugov\\SimpleProject\\": "src/",
+            "Tests\\": "tests/"
         }
     },
     "authors": [
