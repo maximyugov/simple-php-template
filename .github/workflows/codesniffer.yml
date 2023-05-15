@@ -1,2 +1,16 @@
-- name: action-php-codesniffer
-  uses: tinovyatkin/action-php-codesniffer@v1
+name: Code Sniffer
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+
+    - name: action-php-codesniffer
+    uses: tinovyatkin/action-php-codesniffer@v1
