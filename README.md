@@ -1,9 +1,8 @@
 # Simple PHP Template
 
-[![Code quality](https://github.com/maximyugov/virtual-hosting-deploy/actions/workflows/phpmd.yml/badge.svg)](https://github.com/maximyugov/virtual-hosting-deploy/actions/workflows/phpmd.yml)
 [![PHPStan](https://github.com/maximyugov/simple-php-template/actions/workflows/phpstan.yml/badge.svg)](https://github.com/maximyugov/simple-php-template/actions/workflows/phpstan.yml)
 [![PHPUnit](https://github.com/maximyugov/simple-php-template/actions/workflows/phpunit.yml/badge.svg)](https://github.com/maximyugov/simple-php-template/actions/workflows/phpunit.yml)
-[![Code Sniffer](https://github.com/maximyugov/simple-php-template/actions/workflows/codesniffer.yml/badge.svg)](https://github.com/maximyugov/simple-php-template/actions/workflows/codesniffer.yml)
+[![Code Sniffer](https://github.com/maximyugov/simple-php-template/actions/workflows/phpcs.yml/badge.svg)](https://github.com/maximyugov/simple-php-template/actions/workflows/phpcs.yml)
 
 ## About
 
