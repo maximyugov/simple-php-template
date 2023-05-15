@@ -2,7 +2,7 @@
 
 [![PHPStan](https://github.com/maximyugov/simple-php-template/actions/workflows/phpstan.yml/badge.svg)](https://github.com/maximyugov/simple-php-template/actions/workflows/phpstan.yml)
 [![PHPUnit](https://github.com/maximyugov/simple-php-template/actions/workflows/phpunit.yml/badge.svg)](https://github.com/maximyugov/simple-php-template/actions/workflows/phpunit.yml)
-[![Code Sniffer](https://github.com/maximyugov/simple-php-template/actions/workflows/phpcs.yml/badge.svg)](https://github.com/maximyugov/simple-php-template/actions/workflows/phpcs.yml)
+[![PHPCS check](https://github.com/maximyugov/simple-php-template/actions/workflows/phpcs.yml/badge.svg)](https://github.com/maximyugov/simple-php-template/actions/workflows/phpcs.yml)
 
 ## About
 
