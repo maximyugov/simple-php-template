@@ -1,6 +1,9 @@
 <?php
 
-function helloWorld()
+/**
+ * @return string
+ */
+function helloWorld(): string
 {
     return "Hello, World!";
 }

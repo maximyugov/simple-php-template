@@ -24,7 +24,15 @@
             "./vendor/bin/phpunit tests --colors=always"
         ],
         "cs": [
-            "./vendor/bin/phpcs **.php --colors"
+            "./vendor/bin/phpcs ./src/ --colors"
+        ],
+        "ps": [
+            "./vendor/bin/phpstan analyse src --level=9"
+        ],
+        "test-all": [
+            "./vendor/bin/phpunit tests --colors=always",
+            "./vendor/bin/phpcs ./src/ --colors",
+            "./vendor/bin/phpstan analyse src --level=9"
         ]
     }
 }
