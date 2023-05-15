@@ -1,7 +1,8 @@
 <?php
 
-function helloWorld() {
-  return "Hello, World!";
+function helloWorld()
+{
+    return "Hello, World!";
 }
 
-echo helloWorld();
+// echo helloWorld();
