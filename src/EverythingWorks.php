@@ -4,8 +4,7 @@ namespace MaximYugov\SimpleProject;
 
 class EverythingWorks
 {
-    public function helloWorld()
-    {
+    public function helloWorld(){
         return 'Hello, World!';
     }
 }
