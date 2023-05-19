@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests;
+namespace Tests\Unit;
 
 use MaximYugov\SimpleProject\EverythingWorks;
 use PHPUnit\Framework\TestCase;
