@@ -8,4 +8,4 @@ function helloWorld(): string
     return "Hello, World!";
 }
 
-// echo helloWorld();
+ echo helloWorld();

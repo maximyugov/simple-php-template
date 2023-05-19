@@ -1,4 +1,5 @@
 .github/workflows/phpmd.yml
+.idea
 .vscode
 composer.lock
 vendor

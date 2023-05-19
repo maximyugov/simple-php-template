@@ -13,6 +13,40 @@ Clone repository
 
 `git clone https://github.com/maximyugov/simple-php-template.git your-project-directory`
 
+`cd your-project-directory`
+
+### With Docker
+
+Build services
+
+`docker compose build`
+
+Run container
+
+`docker compose up`
+
+Open in your browser
+
+`http://localhost:8050`
+
+Before running composer command you need to open terminal in Docker container
+
+`docker container exec -it app bash`
+
+Then install dependencies
+
+`composer install`
+
+Run tests
+
+`composer test`
+
+Check PHP version
+
+`php --version`
+
+### Without Docker
+
 Install dependencies
 
 `composer install`
